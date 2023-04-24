@@ -1,0 +1,46 @@
+.header{
+    background-color: #E8E8E8
+    ;
+}
+
+.header .logo {
+    height: 100px;
+    background-color: #c9c9c9;
+    text-align: center;
+    line-height: 100px;
+}
+
+.header .gnb {}
+
+.header .gnb .inner {
+    width: 1040px;
+    height: 80px;
+    background-color: #d9d9d9;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 80px;
+}
+
+.contents {
+    width: 1040px;
+    height: 544px;
+    margin: 0 auto;
+    background-color: #e6e6e6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    background-color: #c9c9c9;
+}
+
+.footer .inner {
+    width: 1040px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
